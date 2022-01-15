@@ -1,0 +1,166 @@
+@media (min-width: 279px) and (max-width: 319px){
+ /*code-start*/
+
+/*code-end*/
+}
+
+
+
+@media (min-width: 320px) and (max-width: 480px){
+ /*code-start*/
+
+#myBtn{
+    display: none !important;
+}
+.header-section .header-banner .header-content h1 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: 700;
+}
+.header-section .header-banner {
+    width: 100%;
+    background: url(../images/h-banner.jpg) top center no-repeat;
+    background-size: cover;
+    padding: 82px 0px 100px 26px;
+    position: relative;
+}
+.header-section .header-banner .header-content p {
+    color: #fff;
+    font-size: 17px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+}
+.header-section .header-banner .header-content .btn-info {
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 22px;
+    border-radius: 4px;
+    transition: 0.5s;
+    margin-top: 30px;
+    color: #fff;
+    background: #e03a3c;
+    border: 2px solid #e03a3c;
+}
+.owl-carousel .owl-stage{
+
+        padding: 0px 36px;
+    }
+    .about-section .about-main-content h2{
+        font-size: 28px;
+    }
+
+
+.about-section .about-main-content p {
+    color: #fff;
+    font-size: 15px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    padding-bottom: 25px;
+}
+.about-section .about-sub-content{
+    text-align: center;
+}
+.counts .count-content {
+    padding: 30px 30px 25px 30px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    box-shadow: 0px 2px 35px rgb(0 0 0 / 6%);
+    border-radius: 4px;
+    margin-bottom: 50px;
+}
+.tabs .tabs-content {
+    position: relative;
+    border: 1px solid #b9b9b9;
+    padding: 15px;
+    transition: 0.3s;
+    color: #111111;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 30px 10px 22px 25px;
+    margin-bottom: 20px;
+}
+.tabs .tab-content .tab-inner-content h5 {
+    color: #444444;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    padding-top: 25px;
+}
+.tabs .tab-content .tab-inner-content p {
+    color: #444444;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: italic;
+}
+.tabs .tab-content .tab-inner-content ul li {
+    color: #444444;
+    padding-bottom: 16px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+}
+.services .title p{
+    display: none;
+}
+.portfolio .title p{
+    display: none;
+}
+.testimonial .title  p{
+    display: none;
+}
+.owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    -webkit-transform: translate3d(0,0,0);
+    margin: 0px -26px;
+}
+.pricing .title p {
+display: none;
+}
+.team-section .title p{
+    display: none;
+}
+.team-card {
+    width: 100%;
+    position: relative;
+    z-index: 33;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.contact .title p{
+    display: none;
+}
+
+
+
+ /*code-end*/
+
+
+}
+
+
+
+@media (min-width: 481px) and (max-width: 767px){
+ /*code-start*/
+
+ /*code-end*/
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+ /*code-start*/
+ 
+ /*code-end*/
+}

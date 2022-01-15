@@ -1,0 +1,553 @@
+@media (min-width: 279px) and (max-width: 319px){
+ /*code-start*/
+ .navbar-light .navbar-nav .nav-link.active,.headers-section .navbar-light .navbar-nav .nav-link:hover{
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+.navbar-nav{
+    text-align: left;
+    margin: 25px 0px 0px 0px;
+}
+.headers-section .banner h2 {
+    font-size: 17px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.headers-section .banner h1{
+    font-size: 26px;
+    line-height: 36px;
+    text-align: center;
+}
+.headers-section .banner p{
+        font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.headers-section .banner .btns {
+    text-align: center;
+}
+.headers-section .banner .btn-primary{
+    padding: 10px 10px;
+    margin: 10px 0px;
+}
+.headers-section .banner .btn-info{
+    padding: 10px 10px;
+    margin: 10px 0px;
+}
+.product-review .title h5{
+    font-size: 12px;
+    line-height: 22px;
+}
+.product-review .title h1 {
+    font-size: 26px;
+    line-height: 36px;
+}
+.banner img{
+    width: 100%;
+}
+.details-section .title{
+    text-align: center;
+ 
+}
+.details-section .title h5 {
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+}
+.details-section .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.details-section .inner-f p{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.details-section .inner-f ul {
+    text-align: center;
+}
+.iphone-5 .title{
+    text-align: center;
+}
+.iphone-5 .title h5 {
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.iphone-5 .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+
+}
+.iphone-5 .col-lg-7 img{
+    width: 100%;
+}
+.tetimonial{
+    text-align: center;
+}
+.tetimonial .title h5{
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.tetimonial .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.tetimonial .owl-carousel .item h4{
+    margin: 0px 0px 0px 24px;
+}
+.download{
+    text-align: center;
+}
+.download .btns .btn-primary {
+    padding: 10px 10px;
+    margin: 15px 0px;
+}
+.download .btns .btn-info{
+    padding: 10px 10px;
+    margin: 0px 0px;
+}
+.priceing .title h1{
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+}
+.priceing .title h5{
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.download h2{
+    font-size: 18px;
+    line-height: 28px;
+}
+/*code-end*/
+}
+
+
+
+@media (min-width: 320px) and (max-width: 480px){
+ /*code-start*/
+ .navbar-light .navbar-nav .nav-link.active,.headers-section .navbar-light .navbar-nav .nav-link:hover{
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+.navbar-nav{
+    text-align: left;
+    margin: 25px 0px 0px 0px;
+}
+.headers-section .banner h2 {
+    font-size: 17px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.headers-section .banner h1{
+    font-size: 26px;
+    line-height: 36px;
+    text-align: center;
+}
+.headers-section .banner p{
+        font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.headers-section .banner .btns {
+    text-align: center;
+}
+.headers-section .banner .btn-primary{
+    padding: 10px 10px;
+    margin: 10px 0px;
+}
+.headers-section .banner .btn-info{
+    padding: 10px 10px;
+    margin: 10px 0px;
+}
+.product-review .title h5{
+    font-size: 12px;
+    line-height: 22px;
+}
+.product-review .title h1 {
+    font-size: 26px;
+    line-height: 36px;
+}
+.banner img{
+    width: 100%;
+}
+.details-section .title{
+    text-align: center;
+ 
+}
+.details-section .title h5 {
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+}
+.details-section .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.details-section .inner-f p{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.details-section .inner-f ul {
+    text-align: center;
+}
+.iphone-5 .title{
+    text-align: center;
+}
+.iphone-5 .title h5 {
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.iphone-5 .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+
+}
+.iphone-5 .col-lg-7 img{
+    width: 100%;
+}
+.tetimonial{
+    text-align: center;
+}
+.tetimonial .title h5{
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.tetimonial .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.tetimonial .owl-carousel .item h4{
+    margin: 0px 0px 0px 24px;
+}
+.download{
+    text-align: center;
+}
+.download .btns .btn-primary {
+    padding: 10px 10px;
+    margin: 15px 0px;
+}
+.download .btns .btn-info{
+    padding: 10px 10px;
+    margin: 0px 0px;
+}
+.priceing .title h1{
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+}
+.priceing .title h5{
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.download h2{
+    font-size: 18px;
+    line-height: 28px;
+}
+
+ /*code-end*/
+}
+
+
+
+@media (min-width: 481px) and (max-width: 767px){
+ /*code-start*/
+ .navbar-light .navbar-nav .nav-link.active,.headers-section .navbar-light .navbar-nav .nav-link:hover{
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+.navbar-nav{
+    text-align: left;
+    margin: 25px 0px 0px 0px;
+}
+.headers-section .banner h2 {
+    font-size: 17px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.headers-section .banner h1{
+    font-size: 26px;
+    line-height: 36px;
+    text-align: center;
+}
+.headers-section .banner p{
+        font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.headers-section .banner .btns {
+    text-align: center;
+}
+.headers-section .banner .btn-primary{
+    padding: 10px 10px;
+    margin: 10px 0px;
+}
+.headers-section .banner .btn-info{
+    padding: 10px 10px;
+    margin: 10px 0px;
+}
+.product-review .title h5{
+    font-size: 12px;
+    line-height: 22px;
+}
+.product-review .title h1 {
+    font-size: 26px;
+    line-height: 36px;
+}
+.banner img{
+    width: 100%;
+}
+.details-section .title{
+    text-align: center;
+ 
+}
+.details-section .title h5 {
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+}
+.details-section .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.details-section .inner-f p{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.details-section .inner-f ul {
+    text-align: center;
+}
+.iphone-5 .title{
+    text-align: center;
+}
+.iphone-5 .title h5 {
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.iphone-5 .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+
+}
+.iphone-5 .col-lg-7 img{
+    width: 100%;
+}
+.tetimonial{
+    text-align: center;
+}
+.tetimonial .title h5{
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.tetimonial .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.tetimonial .owl-carousel .item h4{
+    margin: 0px 0px 0px 24px;
+}
+.download{
+    text-align: center;
+}
+.download .btns .btn-primary {
+    padding: 10px 10px;
+    margin: 15px 0px;
+}
+.download .btns .btn-info{
+    padding: 10px 10px;
+    margin: 0px 0px;
+}
+.priceing .title h1{
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+}
+.priceing .title h5{
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.download h2{
+    font-size: 18px;
+    line-height: 28px;
+}
+ /*code-end*/
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+ /*code-start*/
+  .navbar-light .navbar-nav .nav-link.active,.headers-section .navbar-light .navbar-nav .nav-link:hover{
+    background: url(../images/line.png) left bottom no-repeat;
+    background-size: auto;
+}
+.navbar-nav{
+    text-align: left;
+    margin: 25px 0px 0px 0px;
+}
+.headers-section .banner h2 {
+    font-size: 17px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.headers-section .banner h1{
+    font-size: 26px;
+    line-height: 36px;
+    text-align: center;
+}
+.headers-section .banner p{
+        font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.headers-section .banner .btns {
+    text-align: center;
+}
+.headers-section .banner .btn-primary{
+    padding: 10px 10px;
+    margin: 10px 20px;
+}
+.headers-section .banner .btn-info{
+    padding: 10px 10px;
+    margin: 10px 0px;
+}
+.product-review .title h5{
+    font-size: 12px;
+    line-height: 22px;
+}
+.product-review .title h1 {
+    font-size: 26px;
+    line-height: 36px;
+}
+.banner img{
+    width: 100%;
+}
+.details-section .title{
+    text-align: center;
+ 
+}
+.details-section .title h5 {
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+}
+.details-section .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.details-section .inner-f p{
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.details-section .inner-f ul {
+    text-align: center;
+}
+.iphone-5 .title{
+    text-align: center;
+}
+.iphone-5 .title h5 {
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.iphone-5 .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+
+}
+.priceing .price-box {
+    text-align: center;
+    border: 1px solid #eee;
+    width: 50%;
+    margin: 10px auto;
+}
+.iphone-5 .col-lg-7 img{
+    width: 100%;
+}
+.tetimonial{
+    text-align: center;
+}
+.tetimonial .title h5{
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+.product-review .inner-pr p {
+
+    padding: 10px 100px;
+}
+.iphone-5 .inner-ip5 p {
+
+    text-align: center;
+}
+.tetimonial .title h1 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.tetimonial .owl-carousel .item h4{
+    margin: 0px 0px 0px 24px;
+}
+.download{
+    text-align: center;
+}
+.download .btns .btn-primary {
+    padding: 10px 10px;
+    margin: 15px 25px;
+}
+.download .btns .btn-info{
+    padding: 10px 10px;
+    margin: 0px 0px;
+}
+.priceing .title h1{
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+}
+.priceing .title h5{
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.download h2{
+    font-size: 18px;
+    line-height: 28px;
+}
+ /*code-end*/
+}
